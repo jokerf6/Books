@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 export default function Right() {
   return (
-    <div className=" w-2/4 h-full bg-primary4 z-20 flex flex-col items-center justify-center md:w-full sm:w-full xs:w-full 2sm:w-full">
+    <div className=" lg:w-2/4 xl:w-2/4 h-full bg-primary4 z-20 flex flex-col items-center justify-center w-full">
       <div className="flex flex-col gap-12 items-center justify-center w-full">
         <p className=" text-gray-800">Sign in to Homepage</p>
         <form className=" flex flex-col justify-center items-center w-full gap-4">
