@@ -5,7 +5,7 @@ export default function Box() {
         Book Cover Design Formula
       </h1>
       <img src="/cover.jpg" width={"120px"} />
-      <p className=" text-gray-800">Value: $1000.00</p>
+      <p className=" text-gray-800">Value: Invaluable</p>
       <p className=" text-gray-800">
         Price: <span className=" text-primary">$0.00</span>
       </p>
